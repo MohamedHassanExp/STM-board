@@ -6,7 +6,7 @@
 
 A custom-designed printed circuit board (PCB) for an STM32 microcontroller, featuring full schematic capture, layout, and manufacturing-ready fabrication files.
 
-## 📖 Table of Contents
+##  Table of Contents
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
